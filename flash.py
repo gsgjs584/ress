@@ -15,7 +15,7 @@ logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s
 # Path to your binary
 BINARY_PATH = "./flash"
 
-EXPIRY_DATE = datetime(2024, 11, 28)  # Set expiry date to 1st November 2024
+EXPIRY_DATE = datetime(2024, 12, 30)  # Set expiry date to 1st November 2024
 
 # Global variables
 process = None
